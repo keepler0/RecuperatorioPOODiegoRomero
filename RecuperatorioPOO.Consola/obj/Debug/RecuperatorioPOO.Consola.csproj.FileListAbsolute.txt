@@ -1,0 +1,11 @@
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\bin\Debug\RecuperatorioPOO.Consola.exe.config
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\bin\Debug\RecuperatorioPOO.Consola.exe
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\bin\Debug\RecuperatorioPOO.Consola.pdb
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\bin\Debug\RecuperatorioPOO.Entidades.dll
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\bin\Debug\RecuperatorioPOO.Entidades.pdb
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\obj\Debug\RecuperatorioPOO.Consola.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\obj\Debug\RecuperatorioPOO.Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\obj\Debug\RecuperatorioPOO.Consola.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\obj\Debug\RecuperatorioPOO.Consola.csproj.CopyComplete
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\obj\Debug\RecuperatorioPOO.Consola.exe
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Consola\obj\Debug\RecuperatorioPOO.Consola.pdb

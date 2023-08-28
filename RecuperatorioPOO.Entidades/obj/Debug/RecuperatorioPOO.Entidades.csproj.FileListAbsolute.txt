@@ -1,0 +1,6 @@
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Entidades\bin\Debug\RecuperatorioPOO.Entidades.dll
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Entidades\bin\Debug\RecuperatorioPOO.Entidades.pdb
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Entidades\obj\Debug\RecuperatorioPOO.Entidades.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Entidades\obj\Debug\RecuperatorioPOO.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Entidades\obj\Debug\RecuperatorioPOO.Entidades.dll
+C:\Users\diego\Desktop\RecuperatorioPOO2023\RecupetarorioPOO\RecuperatorioPOO.Entidades\obj\Debug\RecuperatorioPOO.Entidades.pdb
